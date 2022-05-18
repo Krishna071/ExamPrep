@@ -1,0 +1,613 @@
+{
+  "courseName": [
+    {
+      "title": "Front End",
+      "id": 1,
+      "src": "/images/frontend.jpg",
+      "details": [
+        {
+          "title": "Web Development: HTML | CSS | JavaScript",
+          "src": "https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
+          "org": "CodeWithHarry | Youtube",
+          "difficulty": "Beginner",
+          "lang": "Hindi",
+          "id": 1
+        },
+        {
+          "title": "Java Script",
+          "src": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0",
+          "org": "Thapa Technical | Youtube",
+          "difficulty": "Beginner",
+          "lang": "Hindi",
+          "id": 2
+        },
+        {
+          "title": "Java Script",
+          "src": "https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+          "org": " Namaste 🙏 JavaScript | Youtube",
+          "difficulty": "Beginner",
+          "lang": "Hindi",
+          "id": 4
+        },
+        {
+          "title": "Mordern React JS",
+          "src": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d",
+          "org": "The Net Ninja | Youtube",
+          "difficulty": "Beginner",
+          "lang": "English",
+          "id": 3
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "title": "Back end",
+      "difficulty": "",
+      "lang": "",
+      "id": 2,
+      "src": "/images/backend.png",
+      "details": [
+        {
+          "title": "course1",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "mario",
+          "difficulty": "",
+          "lang": "",
+          "id": 1
+        },
+        {
+          "title": "course2",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 2
+        },
+        {
+          "title": "course3",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 3
+        },
+        {
+          "title": "course4",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 4
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "title": "Machine learning",
+      "difficulty": "",
+      "lang": "",
+      "id": 3,
+      "src": "/images/ml.png",
+      "details": [
+        {
+          "title": "course1",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "mario",
+          "difficulty": "",
+          "lang": "",
+          "id": 1
+        },
+        {
+          "title": "course2",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 2
+        },
+        {
+          "title": "course3",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 3
+        },
+        {
+          "title": "course4",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 4
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "title": "Data science",
+      "difficulty": "",
+      "lang": "",
+      "id": 4,
+      "src": "/images/datascience.jpg",
+      "details": [
+        {
+          "title": "course1",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "mario",
+          "difficulty": "",
+          "lang": "",
+          "id": 1
+        },
+        {
+          "title": "course2",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 2
+        },
+        {
+          "title": "course3",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 3
+        },
+        {
+          "title": "course4",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 4
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "title": "DSA",
+      "difficulty": "",
+      "lang": "",
+      "id": 5,
+      "src": "/images/DSA.png",
+      "details": [
+        {
+          "title": "course1",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "mario",
+          "difficulty": "",
+          "lang": "",
+          "id": 1
+        },
+        {
+          "title": "course2",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 2
+        },
+        {
+          "title": "course3",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 3
+        },
+        {
+          "title": "course4",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 4
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "title": "Python",
+      "difficulty": "",
+      "lang": "",
+      "id": 6,
+      "src": "/images/python.jpg",
+      "details": [
+        {
+          "title": "course1",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "mario",
+          "difficulty": "",
+          "lang": "",
+          "id": 1
+        },
+        {
+          "title": "course2",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 2
+        },
+        {
+          "title": "course3",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 3
+        },
+        {
+          "title": "course4",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 4
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "difficulty": "",
+      "lang": "",
+      "id": 7,
+      "src": "/images/ai.jpg",
+      "details": [
+        {
+          "title": "course1",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "mario",
+          "difficulty": "",
+          "lang": "",
+          "id": 1
+        },
+        {
+          "title": "course2",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 2
+        },
+        {
+          "title": "course3",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 3
+        },
+        {
+          "title": "course4",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 4
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "title": "JAVA",
+      "difficulty": "",
+      "lang": "",
+      "id": 8,
+      "src": "/images/java.jpg",
+      "details": [
+        {
+          "title": "course1",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "mario",
+          "difficulty": "",
+          "lang": "",
+          "id": 1
+        },
+        {
+          "title": "course2",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 2
+        },
+        {
+          "title": "course3",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 3
+        },
+        {
+          "title": "course4",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 4
+        },
+        {
+          "title": "course5",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 5
+        },
+        {
+          "title": "course6",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 6
+        },
+        {
+          "title": "course7",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 7
+        },
+        {
+          "title": "course8",
+          "src": "Why do we use it?\nIt is a long established fact that a reader will be distractedlooking at its layout.",
+          "org": "yoshi",
+          "difficulty": "",
+          "lang": "",
+          "id": 8
+        }
+      ]
+    }
+  ],
+ 
+  "userinfo": [
+    {
+      "username": "dafafa",
+      "email": "schaudhary332001@gmail.com",
+      "password": "asfsf",
+      "id": 1
+    },
+    {
+      "username": "dddddd",
+      "email": "dd",
+      "password": "ab",
+      "id": 3
+    },
+    {
+      "username": "ddddd",
+      "email": "sddsddddddddddddda",
+      "password": "asdsad",
+      "id": 4
+    },
+    {
+      "username": "ninja_456",
+      "email": "drunkenmaster@gmail.com",
+      "password": "@$%^",
+      "id": 6
+    }
+  ]
+}
